@@ -1,6 +1,6 @@
 UNITED STORE
-Online Shopping is a lifestyle e-commerce web application, which retails various fashion andlifestyle products .
-This project allows viewing various products available enables registered users to purchase desired products instantly using PayPal payment processor (Instant Pay) option.
+1)Online Shopping is a lifestyle e-commerce web application, which retails various fashion andlifestyle products .
+2)This project allows viewing various products available enables registered users to purchase desired products instantly using PayPal payment processor (Instant Pay) option.
 This project provides an easy access to Administrators and Managers to view orders placed using Instant Pay options.
 In order to develop an e-commerce website, a number of Technologies must be studied and understood.
 These include multi-tiered architecture, server and client side scripting techniques, implementation technologies such as Html, CSS, PHP, JavaScript, Jquery and relational databases.
